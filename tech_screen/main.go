@@ -1,6 +1,8 @@
 // A program to ingest a list of words and return the longest word that
 // exists that is a concatenation of other words in the list
-// When a list is completely comprised of unique words
+// When a list is completely comprised of unique words this
+// this program will let you know that no word is comprised
+// of other words
 
 package main
 
